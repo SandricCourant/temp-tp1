@@ -1,2 +1,2 @@
-def test_fun():
+def cc_fun():
     print("Hi !")

@@ -1,3 +1,4 @@
 # Fichiers de test
 
-- <test.py>
+* test.py
+* test2.py
